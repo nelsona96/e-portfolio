@@ -62,8 +62,8 @@ a {
 .row {
   width: 100%;
   max-width: 824px;
-  margin: 0 auto;
   padding: 0 24px;
+  margin: 0 auto;
 }
 
 .text--blue {
